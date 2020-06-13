@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://minru.github.io/Main/posts/my-first-post/</loc>
+    <lastmod>2020-06-13T12:12:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://minru.github.io/Main/</loc>
+    <lastmod>2020-06-13T12:12:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://minru.github.io/Main/posts/</loc>
+    <lastmod>2020-06-13T12:12:25+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://minru.github.io/Main/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://minru.github.io/Main/tags/</loc>
+  </url>
+  
+</urlset>
